@@ -1,0 +1,60 @@
+.Home{
+    display: flex;
+    position: absolute;
+    left: 50%; 
+}
+.About{
+    display: flex;
+    position: absolute;
+    left: 55%;
+}
+.Internship{
+    display: flex;
+    position: absolute;
+    left: 60%;
+
+
+}
+
+
+.box1{
+    display: flex;
+    width: 2000px;
+    height: 500px;
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    background: blueviolet;
+}
+.name2{
+    display: flex;
+    position:absolute;
+    top: 20%;
+    left: 40%;
+    
+  
+    color: white;
+
+    }
+    .name3{
+        display: flex;
+        position: absolute;
+        top: 40%;
+        left: 20%;
+      
+        color: white;
+    }
+    .ourprocess{
+        display: flex;
+        position: absolute;
+        left: 45%;
+        top: 80%;
+
+    }
+    .box2{
+        width: 50px;
+        width: 50px;
+        color: orange;
+    }
+    
+   
